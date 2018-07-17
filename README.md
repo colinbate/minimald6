@@ -1,2 +1,2 @@
-# dw-playbooks
-Big list of all Dungeon World playbooks
+# minimald6
+Big list of all minimald6 RPGs
