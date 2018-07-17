@@ -1,19 +1,19 @@
-# Dungeon World Playbooks
+# Minimald6
 
-Big list of all Dungeon World playbooks
+Minimald6 RPGs
 
 * Built with [Jekyll-db](https://github.com/rypan/jekyll-db), which uses [Jekyll](http://jekyllrb.com/), [ListJS](http://listjs.com/), and [Bootstrap](http://getbootstrap.com/).
 
 
-## View Playbooks
-[Visit the website](https://exposit.github.io/dw-playbooks/)
+## View RPGs
+[Visit the website](https://yochaigal.github.io/minimald6/)
 
-## Submit a Playbook
-[Create a new file here](https://github.com/exposit/dw-playbooks/new/gh-pages/_posts) and submit a pull request.  
+## Submit an RPG
+[Create a new file here](https://github.com/yochaigal/minimald6/new/gh-pages/_posts) and submit a pull request.  
 File name format is `{[currentyear}}-{{currentmonth}}-{{currentday}}-{{classname}}.md`.  
-Example: `2018-01-03-the-dw-class.md`.
+Example: `2018-01-03-minimald6-rpg-name.md`.
 
-Verify that the chosen date is not in use for the class name you want first.
+Verify that the chosen date is not in use for the RPG you want first.
 
 ### File Format
 Example format below. Copy and paste and change for the playbook you're submitting. You can also choose an existing file as a template.
@@ -21,12 +21,12 @@ Example format below. Copy and paste and change for the playbook you're submitti
 ```yaml
 ---
 layout: entry
-link: http://www.thedwclass.world
+link: http://www.game.url
 author: ['Jane Doe', 'John Smith']
-source: The DW Supplement
-source-url: http://thedungeon.world/supplement
+source: Where you Fond it
+source-url: http://minimald6-game.url
 
-excerpt: Put the description of your playbook here. Keep it short; no more than 200 characters
+excerpt: Put the description of the game here. Keep it short; no more than 200 characters
  will display.
 
 categories:
@@ -37,8 +37,6 @@ cost: paid, free, pwyw
 
 tags:
 - setting (if there is one)
-- pack (if there is one)
-- class tags like armored, tank, holy, warrior, music, etc.
 
 ---
 
