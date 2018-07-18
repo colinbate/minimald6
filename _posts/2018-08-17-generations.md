@@ -5,7 +5,7 @@ author: Yochai Gal
 source: Google Plus
 source-url: https://plus.google.com/+YochaiGalUSA
 
-excerpt:  A game about a generation ship, and the factions within. Pocketmod version: https://drive.google.com/file/d/1TY9jatNzgzH8DYH1rgeSRPzLjAueRo6w/view
+excerpt:  A game about a generation ship, and the factions within. 
 
 categories:
 - SciFi
