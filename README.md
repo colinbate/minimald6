@@ -42,6 +42,5 @@ tags:
 
   Any content you want shown on the individual entry page should go here. If you don't use an
   explicit excerpt field above, one will be generated here, using the first 200 characters.
-  Note: Please use your own words or just a short quote from the product page.
 
 ```
