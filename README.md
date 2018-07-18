@@ -13,10 +13,10 @@ minimald6 RPGs
 File name format is `{[currentyear}}-{{currentmonth}}-{{currentday}}-{{rpgname}}.md`.  
 Example: `2018-01-18-minimald6-rpg-name.md`.
 
-Verify that the chosen date is not in use for the RPG you want first.
+Verify that the chosen date is not in use for the game you want first.
 
 ### File Format
-Example format below. Copy and paste and change for the playbook you're submitting. You can also choose an existing file as a template.
+Example format below. Copy and paste the change for the game you're submitting. You can also choose an existing file as a template.
 
 ```yaml
 ---
