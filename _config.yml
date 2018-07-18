@@ -5,7 +5,6 @@ permalink: /:slug-:month:day:short_year
 include: ['_pages']
 
 title: Jekyll-db
-description: 
-google_analytics: 
+description:
+google_analytics:
 show_downloads: true
-theme: jekyll-theme-minimal
