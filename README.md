@@ -10,8 +10,8 @@ minimald6 RPGs
 
 ## Submit an RPG
 [Create a new file here](https://github.com/yochaigal/minimald6/new/gh-pages/_posts) and submit a pull request.  
-File name format is `{[currentyear}}-{{currentmonth}}-{{currentday}}-{{classname}}.md`.  
-Example: `2018-01-03-minimald6-rpg-name.md`.
+File name format is `{[currentyear}}-{{currentmonth}}-{{currentday}}-{{rpgname}}.md`.  
+Example: `2018-01-18-minimald6-rpg-name.md`.
 
 Verify that the chosen date is not in use for the RPG you want first.
 
