@@ -5,7 +5,7 @@ author: Yochai Gal
 source: Google Plus
 source-url: https://plus.google.com/+YochaiGalUSA
 
-excerpt:  A game about a generation ship, and the factions within. 
+excerpt:  A game about a generation ship, and the factions within.
 
 categories:
 - SciFi
