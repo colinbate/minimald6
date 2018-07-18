@@ -1,6 +1,6 @@
-# Minimald6
+# minimald6
 
-Minimald6 RPGs
+minimald6 RPGs
 
 * Built with [Jekyll-db](https://github.com/rypan/jekyll-db), which uses [Jekyll](http://jekyllrb.com/), [ListJS](http://listjs.com/), and [Bootstrap](http://getbootstrap.com/).
 
