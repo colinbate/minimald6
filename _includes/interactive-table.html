@@ -41,7 +41,7 @@
     	</a>
   		{% endif %}
 			</td>
-			</td>			<td class="rpg-name"><a href="{{ site.baseurl }}{{ post.url }}">
+			<td class="rpg-name"><a href="{{ site.baseurl }}{{ post.url }}">
 				{% assign words = post.slug | replace: '-', ' ' | split: ' ' %}
 				{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
 				{{ titlecase }}
