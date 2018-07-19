@@ -24,7 +24,15 @@
 	{% assign sortedPosts = site.posts | sort: 'title' %}
 	{% for post in sortedPosts %}
 		<tr>
-			<td class="link"><a href="{{ post.link }}" target="new"><button type="button" class="btn btn-primary">Get <i class="fa fa-external-link"></i></button></a></td>
+			<td class="link">
+			  {% if post.pocketmod-link %}
+			    <a href="{{ post.link }}" target="new">
+			      <button type="button" class="btn btn-primary">
+			        Get <i class="fa fa-external-link"></i>
+			      </button>
+			    </a>
+			  {% endif %}
+			</td>
 			<td class="pocketmod-link">
   {% if post.pocketmod-link %}
     	<a href="{{ post.pocketmod-link }}" target="new">
