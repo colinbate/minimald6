@@ -26,14 +26,14 @@
 	{% for post in sortedPosts %}
 	  {% if page.license == post.license %}
 		<tr>
-			<td class="link"><a href="{{ post.link }}" target="new"><button type="button" class="btn btn-primary">Get <i class="fa fa-external-link"></i></button></a></td>
+			<td class="link"><a href="{{ post.link }}" target="_blank"><button type="button" class="btn btn-primary">Get <i class="fa fa-external-link"></i></button></a></td>
 			<td class="rpg-name"><a href="{{ site.baseurl }}{{ post.url }}">
 				{% assign words = post.slug | replace: '-', ' ' | split: ' ' %}
 				{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
 				{{ titlecase }}
 			</a></td>
 			<td class="source">
-				{% if post.source-url %}<a href="{{ post.source-url }}" target="new">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
+				{% if post.source-url %}<a href="{{ post.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
 			<!--<td class="license">{{ post.license }}</td>-->
 			<td class="cost">{{ post.cost }}</td>
 			<td class="author"><a href="{{ site.baseurl }}/authors.html#{{post.author}}">{{ post.author | join: ", " }}</a></td>

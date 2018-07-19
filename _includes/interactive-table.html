@@ -26,7 +26,7 @@
 		<tr>
 			<td class="link">
 	{% if post.link %}
-			<a href="{{ post.link }}" target="new">
+			<a href="{{ post.link }}" target="_blank">
 			<button type="button" class="btn btn-primary">
 				Get <i class="fa fa-external-link"></i>
 			</button>
@@ -35,7 +35,7 @@
  		 </td>
 			<td class="pocketmod-link">
   {% if post.pocketmod-link %}
-    	<a href="{{ post.pocketmod-link }}" target="new">
+    	<a href="{{ post.pocketmod-link }}" target="_blank">
       <button type="button" class="btn btn-primary">
 				Get <i class="fa fa-external-link"></i>
       </button>
@@ -49,7 +49,7 @@
 			</a>
 			</td>
 			<td class="source">
-				{% if post.source-url %}<a href="{{ post.source-url }}" target="new">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
+				{% if post.source-url %}<a href="{{ post.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
 			<!--<td class="license"><a href="{{ site.baseurl }}/{{post.license}}.html">{{ post.license }}</a></td>-->
 			<td class="cost"><a href="{{ site.baseurl }}/{{post.cost}}.html">{{ post.cost }}</a></td>
 			<td class="author"><a href="{{ site.baseurl }}/authors.html#{{post.author}}">{{ post.author | join: ", " }}</a></td>
