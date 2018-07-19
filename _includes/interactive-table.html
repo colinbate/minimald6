@@ -32,7 +32,8 @@
 			</button>
 			</a>
 			{% endif %}
-			<td class="link">
+ 		 </td>
+			<td class="pocketmod-link">
   {% if post.pocketmod-link %}
     	<a href="{{ post.pocketmod-link }}" target="new">
       <button type="button" class="btn btn-primary">
@@ -45,7 +46,8 @@
 				{% assign words = post.slug | replace: '-', ' ' | split: ' ' %}
 				{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
 				{{ titlecase }}
-			</a></td>
+			</a>
+			</td>
 			<td class="source">
 				{% if post.source-url %}<a href="{{ post.source-url }}" target="new">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
 			<!--<td class="license"><a href="{{ site.baseurl }}/{{post.license}}.html">{{ post.license }}</a></td>-->
