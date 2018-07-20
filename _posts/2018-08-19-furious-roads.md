@@ -6,7 +6,7 @@ author: Marcus Burggraf
 source: Chaotic GM
 source-url: https://chaosmeister.wordpress.com/2018/03/23/my-minimald6-games-furious-roads/
 
-excerpt: A minimald6 take on Mad Max
+excerpt: A minimald6 take on Mad Max.
 
 categories:
 - post-apocalyptic
