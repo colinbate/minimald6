@@ -10,6 +10,7 @@ excerpt: An expression of the minimald6 system suitable for playing OSR modules.
 
 categories:
 - fantasy
+- osr
 
 license: cc-by-sa
 cost: free
