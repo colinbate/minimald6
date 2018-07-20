@@ -10,7 +10,7 @@ excerpt: Supplement for Space Trucker by Ray Otus. It includes more characters, 
 
 categories:
 - scifi
-- Supplement
+- supplement
 
 license: cc-by-sa
 cost: free
