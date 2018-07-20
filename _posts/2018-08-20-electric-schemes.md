@@ -2,7 +2,7 @@
 layout: entry
 link:
 pocketmod-link: https://drive.google.com/file/d/18NI3sL2ueCgByrTwufTQu1hFRwArEZRz/view
-author: Electric Schemes
+author: Paul Baldowski
 source: Blog
 source-url: http://www.renegadetimelord.com/electric-schemes/
 
