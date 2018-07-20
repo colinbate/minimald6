@@ -9,7 +9,7 @@ source-url: https://plus.google.com/+YochaiGalUSA
 excerpt:  A game about a generation ship, and the factions within.
 
 categories:
-- SciFi
+- scifi
 
 license: cc-by-sa
 cost: free
