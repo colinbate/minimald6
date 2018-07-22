@@ -6,6 +6,8 @@ author: R.E. Davis
 source: Google Plus
 source-url: https://plus.google.com/102023994857677754172
 
+display-title: MINOS Omitted Schemes
+
 excerpt: MINOS stands for Minimal Old School. The following are some optional house rules for MINOS that did not make it into the original core game.
 
 categories:
