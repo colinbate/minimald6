@@ -42,12 +42,16 @@
     	</a>
   		{% endif %}
 			</td>
-			<td class="rpg-name"><a href="{{ site.baseurl }}{{ post.url }}">
-				{% assign words = post.slug | replace: '-', ' ' | split: ' ' %}
-				{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
-				{{ titlecase }}
-			</a>
-			</td>
+			<td class="rpg-name">
+   <a href="{{ site.baseurl }}{{ post.url }}">
+        {% if post.display-title %}
+            {{ post.display-title }}
+        {% else %}
+      {% assign words = post.slug | replace: '-', ' ' | split: ' ' %}
+      {% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
+      {{ titlecase }}
+        {% endif %}
+   </a></td>
 			<td class="source">
 				{% if post.source-url %}<a href="{{ post.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
 			<!--<td class="license"><a href="{{ site.baseurl }}/{{post.license}}.html">{{ post.license }}</a></td>-->
