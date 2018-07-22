@@ -6,7 +6,7 @@ author: Ben Lehman
 source: Google Plus
 source-url: https://plus.google.com/+BenLehman
 
-excerpt: In May 2014, we released an expansion pack for Deeds and Doers with three new cards:
+excerpt: An expansion pack for Deeds and Doers with three new cards.
 
 categories:
 - fantasy
