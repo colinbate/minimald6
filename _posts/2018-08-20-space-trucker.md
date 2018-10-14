@@ -1,7 +1,7 @@
 ---
 layout: entry
 link:
-pocketmod-link: http://www.rayotus.com/jsg/pnp-spacetrucker-pm.pdf
+pocketmod-link: http://www.rayotus.com/jsg2/pnp/pnp-spacetrucker-pm.pdf
 author: Ray Otus
 source: Google Plus
 source-url: https://plus.google.com/+RayOtus

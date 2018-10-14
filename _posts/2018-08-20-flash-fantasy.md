@@ -1,7 +1,7 @@
 ---
 layout: entry
 link:
-pocketmod-link: http://www.rayotus.com/jsg/pnp-flashfantasy-pm.pdf
+pocketmod-link: http://www.rayotus.com/jsg2/pnp/pnp-flashfantasy-pm.pdf
 author: Ray Otus
 source: Google Plus
 source-url: https://plus.google.com/+RayOtus

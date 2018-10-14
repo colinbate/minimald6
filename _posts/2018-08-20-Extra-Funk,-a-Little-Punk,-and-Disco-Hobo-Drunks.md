@@ -1,7 +1,7 @@
 ---
 layout: entry
 link:
-pocketmod-link: http://www.rayotus.com/jsg/pnp-spacetrucker2-pm.pdf
+pocketmod-link: http://www.rayotus.com/jsg2/pnp/pnp-spacetrucker2-pm.pdf
 author: Greg Gelder
 source: Google Plus
 source-url: https://plus.google.com/115066079250625289207
