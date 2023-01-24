@@ -1,6 +1,6 @@
 ---
 layout: entry
-link: https://drive.google.com/open?id=1dLEJmUos29zGGOSAHYJYXudSjtMRUypT
+link: https://rayotus.itch.io/taba
 pocketmod-link:
 author: Ray Otus
 source: Google Plus
